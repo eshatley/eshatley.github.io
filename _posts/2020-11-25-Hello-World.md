@@ -9,7 +9,7 @@ to use this as a space to talk about that process.
 
 On this day in history a little cat named Ivar takes his first steps -
 quite literally, actually. I finally drew up a sprite for little Ivar; No more square man! I 
-decided it would be faster to use Unity's new in built bone aniamtion tools than to try to draw up
+decided it would be faster to use Unity's new in built bone animation tools than to try to draw up
 a sprite sheet so I created him in a psb file with all his bits in different layers. So far no
 animation. He just stares at you with his blank, dead, mildly cute eyes as you press the arrow keys 
 to move him back and forth. I did rig him up though; Still trying to decide if I used to many bones
@@ -20,3 +20,6 @@ aesthetically pleasing and optimized performance. I don't have very many of thos
 to focus on basic gameplay before building levels, so this is pretty easy for now. 
 
 ![alt text](https://github.com/eshatley/eshatley.github.io/blob/master/images/IVAR.jpg "Ivar's First Steps")
+
+![alt text][ivar]
+[ivar]: https://github.com/eshatley/eshatley.github.io/blob/master/images/IVAR.jpg "Ivar First Steps"
