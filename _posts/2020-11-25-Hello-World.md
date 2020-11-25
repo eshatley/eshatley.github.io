@@ -19,4 +19,4 @@ expression anywhere else. I've also been working on makeing the other art assets
 aesthetically pleasing and optimized performance. I don't have very many of those yet, as I wanted
 to focus on basic gameplay before building levels, so this is pretty easy for now. 
 
-![alt text](https://ibb.co/1XmCc9K "Ivar's First Steps")
+![alt text](https://github.com/eshatley/eshatley.github.io/blob/master/images/IVAR.jpg "Ivar's First Steps")
