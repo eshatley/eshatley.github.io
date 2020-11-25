@@ -21,4 +21,11 @@ to focus on basic gameplay before building levels, so this is pretty easy for no
 
 ![alt text](https://github.com/eshatley/eshatley.github.io/blob/master/images/IVAR.jpg "Ivar First Steps")
 
+And now I'm teaching myself Markdown and struggling to get images to work LMAO. We'll get there eventually.
+One thing I've realized is I can teach myself almost anything if I care enough to want to learn it. 
 
+Also going through Unity's Junior Programmer course I've come to the realization that I've taught myself
+enough I could probably pass their certification test - if I could afford to take it! Isn't that a rub?
+Anyway it is reasuring to know that everything I've been doing has been sticking and I'm gaining actual 
+skills that I am confident I can use. It makes me feel really cool. It's not very often that I feel like
+I'm good enough at something to actually ADMIT that I'm good at it, you know what I mean?
