@@ -1,0 +1,28 @@
+---
+layout: post
+title: Walking and Breathing
+---
+So I finally got our little player character all rigged up and set up the basic animations (walking and idle).
+Still debating whether or not he should be able to jump. Technically there's no gameplay reason for why he
+should, it would mostly be for feel, something to make it feel a little more exploratory. I'm not planning any
+platforming elements, after all, its just a point and click adventure. On the other hand it could be really 
+fun to say, jump on his bed or various other objects around the house.
+
+Anyway the actual rigging process was really straight forward and fairly easy. Unity reads PSB files intuitively 
+so getting him in the game with his layers aligned properly was as easy as dragging and clicking. They've also 
+put in their own bone tool which is very straight forward, and a weight painting system. Still debating how 
+flexible the tail should be (Do I go for realistic cat or super cartoony and simple?) but I like the preliminary 
+results. I think his tale is actually my favorite part of the animations I've put together so far. The walk needs
+some help, a few more frames to smooth things out I think, but I'm really pleased with the idle. 
+
+I need to work in some other things too, of course. For instance if you smack him with one of the objects you 
+can pick up I want his body to react in a semi realistic way, and I want to add some variation to the idle,
+a couple of different actions that happen at random. Anyway I think it is a good start. He still looks a little
+derp but I find him cute. 
+
+Anyway I'm thinking about recording my actual working process but not sure if its worth the time(Would anyone 
+even watch? Maybe?), although I love thought of making videos that would be helpful to other wannabe indie
+developers. That's mostly how I've taught myself, after all. We'll see. Any way I recorded his first real
+animated steps and you can check it out on my Twitter page.
+
+[Check out a quick video on my twitter page](https://twitter.com/ebs1942/status/133253496405721602?s=19)
