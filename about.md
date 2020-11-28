@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm just a guy who wants to make games. Currently I work alone, doing all my own my own art and coding.
+I'm just a guy who wants to make games. Currently I work alone, doing all my own art, animation, level design and coding.
+Basically I wear all hats.
 
 ### More Information
 
